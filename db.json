@@ -1,0 +1,81 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Spaghetti Carbonara",
+        "recipe": "Cook spaghetti. In a separate pan, cook pancetta until crispy. Mix eggs, cheese, and pepper in a bowl. Combine hot spaghetti with pancetta and egg mixture, stirring quickly.",
+        "keyImage": "/recipeImages/SpaghettiCarbonara.jpg",
+        "category": "Italian"
+      },
+      {
+        "id": "2",
+        "title": "Chicken Tikka Masala",
+        "recipe": "Marinate chicken in yogurt and spices. Grill until cooked. Simmer in a sauce made of tomatoes, cream, and spices.",
+        "keyImage": "/recipeImages/chickenTikkaMasala.jpg",
+        "category": "Indian"
+      },
+      {
+        "id": "3",
+        "title": "Vegetable Stir Fry",
+        "recipe": "Heat oil in a wok. Add garlic and ginger. Stir fry vegetables. Add soy sauce and stir until vegetables are tender.",
+        "keyImage": "/recipeImages/vegetableStirFry.jpg",
+        "category": "Asian"
+      },
+      {
+        "id": "4",
+        "title": "Beef Tacos",
+        "recipe": "Cook ground beef with taco seasoning. Serve in taco shells with lettuce, cheese, and salsa.",
+        "keyImage": "/recipeImages/beefTacos.jpg",
+        "category": "Mexican"
+      },
+      {
+        "id": "5",
+        "title": "Pancakes",
+        "recipe": "Mix flour, milk, eggs, and baking powder. Cook on a hot griddle until bubbles form, then flip.",
+        "keyImage": "/recipeImages/pancakes.jpg",
+        "category": "Breakfast"
+      },
+      {
+        "id": "6",
+        "title": "Caesar Salad",
+        "recipe": "Combine lettuce, croutons, and Parmesan cheese. Toss with Caesar dressing.",
+        "keyImage": "/recipeImages/ceasarSalad.jpg",
+        "category": "Salad"
+      },
+      {
+        "id": "7",
+        "title": "Beef Stew",
+        "recipe": "Brown beef cubes. Add onions, carrots, and potatoes. Simmer in beef broth until tender.",
+        "keyImage": "/recipeImages/beefStew.jpg",
+        "category": "Stew"
+      },
+      {
+        "id": "8",
+        "title": "Chocolate Cake",
+        "recipe": "Mix flour, cocoa, sugar, and baking powder. Add eggs, milk, and oil. Bake until a toothpick comes out clean.",
+        "keyImage": "/recipeImages/choclateCake.jpg",
+        "category": "Dessert"
+      },
+      {
+        "id": "9",
+        "title": "Guacamole",
+        "recipe": "Mash avocados. Mix in lime juice, cilantro, onions, and tomatoes. Season with salt.",
+        "keyImage": "/recipeImages/guacamole.jpg",
+        "category": "Appetizer"
+      },
+      {
+        "id": "10",
+        "title": "Grilled Cheese Sandwich",
+        "recipe": "Butter bread slices. Place cheese between slices. Grill until bread is golden and cheese is melted.",
+        "keyImage": "/recipeImages/grilledCheeseSandwich.jpg",
+        "category": "Sandwich"
+      },
+      {
+        "id": "1f4a",
+        "title": "chicken curry ",
+        "keyImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehD8TblQYHlNsfwz2WEb6GjXnJsKKe_es1lO0-Gg70Q&s",
+        "recipe": "Heat olive oil in a skillet over medium heat. Sauté onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar, and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes. Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes. Serve hot and enjoy!",
+        "category": "Indian"
+      }
+    ]
+  }
